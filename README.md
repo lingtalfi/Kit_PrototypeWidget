@@ -95,6 +95,7 @@ Related
 ========
 
 - [Kit](https://github.com/lingtalfi/Kit): the widget rendering system 
+- [Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget): another widget type 
 
 
 
