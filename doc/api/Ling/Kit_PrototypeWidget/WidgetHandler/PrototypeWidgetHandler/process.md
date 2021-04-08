@@ -16,7 +16,7 @@ Description
 ================
 
 
-public [PrototypeWidgetHandler::process](https://github.com/lingtalfi/Kit_PrototypeWidget/blob/master/doc/api/Ling/Kit_PrototypeWidget/WidgetHandler/PrototypeWidgetHandler/process.md)(array &$widgetConf) : mixed
+public [PrototypeWidgetHandler::process](https://github.com/lingtalfi/Kit_PrototypeWidget/blob/master/doc/api/Ling/Kit_PrototypeWidget/WidgetHandler/PrototypeWidgetHandler/process.md)(array &$widgetConf, array $debug) : void
 
 
 
@@ -27,6 +27,12 @@ This means:
 
 - update the widget conf to make it more suitable for the rendering (optional)
 - process the user input if necessary
+
+The debug array can help creating useful error messages.
+It's an array containing the following entries:
+
+- page: the page label of the page containing the widget
+- zone: the name of the zone containing the widget
 
 
 
@@ -39,11 +45,15 @@ Parameters
 
     
 
+- debug
+
+    
+
 
 Return values
 ================
 
-Returns mixed.
+Returns void.
 
 
 

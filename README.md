@@ -107,6 +107,10 @@ Related
 History Log
 =============
 
+- 1.1.5 -- 2021-04-08
+
+    - adapt api to Kit:1.14.0
+  
 - 1.1.4 -- 2021-04-08
 
     - adapt api to Kit:1.13.0

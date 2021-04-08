@@ -84,7 +84,7 @@ class PrototypeWidgetHandler implements WidgetHandlerInterface, KitPageRendererA
     /**
      * @implementation
      */
-    public function process(array &$widgetConf)
+    public function process(array &$widgetConf, array $debug): void
     {
         // we do nothing here
     }
