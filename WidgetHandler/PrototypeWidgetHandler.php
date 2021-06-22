@@ -112,7 +112,7 @@ class PrototypeWidgetHandler implements WidgetHandlerInterface, KitPageRendererA
                 $template = $this->rootDir . "/" . $widgetConf['template'];
                 if (file_exists($template)) {
                     ob_start();
-                    $z = $widgetConf;
+                    $z = $widgetConf['vars'] ?? [];
                     include $template;
                     return ob_get_clean();
                 } else {

@@ -107,6 +107,10 @@ Related
 History Log
 =============
 
+- 1.1.9 -- 2021-06-22
+
+    - update PrototypeWidgetHandler, now z references widgetConf.vars instead of widgetConf
+  
 - 1.1.8 -- 2021-06-22
 
     - update PrototypeWidgetHandler, now provides the widgetConf as the z variable for templates.
