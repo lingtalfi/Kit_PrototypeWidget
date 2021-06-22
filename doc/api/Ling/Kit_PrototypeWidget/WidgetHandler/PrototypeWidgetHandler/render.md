@@ -73,7 +73,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [PrototypeWidgetHandler::render](https://github.com/lingtalfi/Kit_PrototypeWidget/blob/master/WidgetHandler/PrototypeWidgetHandler.php#L104-L126)
+See the source code for method [PrototypeWidgetHandler::render](https://github.com/lingtalfi/Kit_PrototypeWidget/blob/master/WidgetHandler/PrototypeWidgetHandler.php#L104-L127)
 
 
 See Also

@@ -47,7 +47,7 @@ Returns [HtmlPageCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master
 
 Source Code
 ===========
-See the source code for method [PrototypeWidgetHandler::getCopilot](https://github.com/lingtalfi/Kit_PrototypeWidget/blob/master/WidgetHandler/PrototypeWidgetHandler.php#L138-L141)
+See the source code for method [PrototypeWidgetHandler::getCopilot](https://github.com/lingtalfi/Kit_PrototypeWidget/blob/master/WidgetHandler/PrototypeWidgetHandler.php#L139-L142)
 
 
 See Also

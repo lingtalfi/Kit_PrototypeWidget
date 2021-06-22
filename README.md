@@ -107,6 +107,10 @@ Related
 History Log
 =============
 
+- 1.1.8 -- 2021-06-22
+
+    - update PrototypeWidgetHandler, now provides the widgetConf as the z variable for templates.
+
 - 1.1.7 -- 2021-06-22
 
     - update PrototypeWidgetHandler, add access to copilot instance

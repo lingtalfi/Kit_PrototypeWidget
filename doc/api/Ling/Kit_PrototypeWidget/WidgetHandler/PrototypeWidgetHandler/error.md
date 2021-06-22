@@ -62,7 +62,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [PrototypeWidgetHandler::error](https://github.com/lingtalfi/Kit_PrototypeWidget/blob/master/WidgetHandler/PrototypeWidgetHandler.php#L152-L158)
+See the source code for method [PrototypeWidgetHandler::error](https://github.com/lingtalfi/Kit_PrototypeWidget/blob/master/WidgetHandler/PrototypeWidgetHandler.php#L153-L159)
 
 
 See Also
